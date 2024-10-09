@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/alidiamond1/Personal-Portofolio](https://github.com/alidiamond1/Personal-Portofolio)
 
-- 📝 I regularly write articles on [Blog](https://10web-site.ai/177/hip-lioness/)
+- 📝 I regularly write articles on [Alidiamond.com](https://10web-site.ai/177/hip-lioness/)
 
 - 💬 Ask me about **Spring Boot, MERN**
 
