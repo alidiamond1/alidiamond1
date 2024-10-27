@@ -35,75 +35,51 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
 
-<div align="center">
-  <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; max-width: 800px;">
-    <!-- Stars Card -->
-    <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; text-align: center;">
-      <h3 style="margin: 0;">Stars</h3>
-      <div style="margin: 10px 0;">
-        <span style="display: inline-block; background: gold; border-radius: 50%; width: 40px; height: 40px; line-height: 40px; text-align: center;">S</span>
-      </div>
-      <p style="margin: 0;">Stargazer</p>
-      <p style="margin: 5px 0; color: #666;">548pt</p>
-      <div style="background: #0366d6; height: 4px; width: 80%; margin: 10px auto;"></div>
-    </div>
+# GitHub Achievements 🏆
 
-    <!-- Commit Card -->
-    <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; text-align: center;">
-      <h3 style="margin: 0;">Commit</h3>
-      <div style="margin: 10px 0;">
-        <span style="display: inline-block; background: #silver; border-radius: 50%; width: 40px; height: 40px; line-height: 40px; text-align: center;">A</span>
-      </div>
-      <p style="margin: 0;">Ultra Committer</p>
-      <p style="margin: 5px 0; color: #666;">692pt</p>
-      <div style="background: #0366d6; height: 4px; width: 80%; margin: 10px auto;"></div>
-    </div>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/★-Stargazer-FFD700?style=for-the-badge" /><br />
+      548pt
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/A-Ultra_Committer-C0C0C0?style=for-the-badge" /><br />
+      692pt
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/A-Hyper_PR_User-C0C0C0?style=for-the-badge" /><br />
+      56pt
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/A-Hyper_Repo_Creator-C0C0C0?style=for-the-badge" /><br />
+      35pt
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/A-Dynamic_User-C0C0C0?style=for-the-badge" /><br />
+      40pt
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/A-High_Issuer-C0C0C0?style=for-the-badge" /><br />
+      25pt
+    </td>
+  </tr>
+</table>
 
-    <!-- PullRequest Card -->
-    <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; text-align: center;">
-      <h3 style="margin: 0;">PullRequest</h3>
-      <div style="margin: 10px 0;">
-        <span style="display: inline-block; background: #silver; border-radius: 50%; width: 40px; height: 40px; line-height: 40px; text-align: center;">A</span>
-      </div>
-      <p style="margin: 0;">Hyper PR User</p>
-      <p style="margin: 5px 0; color: #666;">56pt</p>
-      <div style="background: #0366d6; height: 4px; width: 80%; margin: 10px auto;"></div>
-    </div>
+## 📊 Achievement Details
 
-    <!-- Repositories Card -->
-    <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; text-align: center;">
-      <h3 style="margin: 0;">Repositories</h3>
-      <div style="margin: 10px 0;">
-        <span style="display: inline-block; background: #silver; border-radius: 50%; width: 40px; height: 40px; line-height: 40px; text-align: center;">A</span>
-      </div>
-      <p style="margin: 0;">Hyper Repo Creator</p>
-      <p style="margin: 5px 0; color: #666;">35pt</p>
-      <div style="background: #0366d6; height: 4px; width: 80%; margin: 10px auto;"></div>
-    </div>
+- **Stargazer (548pt)**: Repositories have received many stars from the community
+- **Ultra Committer (692pt)**: Consistent and frequent code contributions
+- **Hyper PR User (56pt)**: Active in creating and reviewing pull requests
+- **Hyper Repo Creator (35pt)**: Created and maintains multiple repositories
+- **Dynamic User (40pt)**: Engaged community member with growing followers
+- **High Issuer (25pt)**: Regular participation in issue discussions and tracking
 
-    <!-- Followers Card -->
-    <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; text-align: center;">
-      <h3 style="margin: 0;">Followers</h3>
-      <div style="margin: 10px 0;">
-        <span style="display: inline-block; background: #silver; border-radius: 50%; width: 40px; height: 40px; line-height: 40px; text-align: center;">A</span>
-      </div>
-      <p style="margin: 0;">Dynamic User</p>
-      <p style="margin: 5px 0; color: #666;">40pt</p>
-      <div style="background: #0366d6; height: 4px; width: 80%; margin: 10px auto;"></div>
-    </div>
+---
+*Last Updated: October 2024*
 
-    <!-- Issues Card -->
-    <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; text-align: center;">
-      <h3 style="margin: 0;">Issues</h3>
-      <div style="margin: 10px 0;">
-        <span style="display: inline-block; background: #silver; border-radius: 50%; width: 40px; height: 40px; line-height: 40px; text-align: center;">A</span>
-      </div>
-      <p style="margin: 0;">High Issuer</p>
-      <p style="margin: 5px 0; color: #666;">25pt</p>
-      <div style="background: #0366d6; height: 4px; width: 80%; margin: 10px auto;"></div>
-    </div>
-  </div>
-</div>
 
 
 
