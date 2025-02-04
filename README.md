@@ -65,21 +65,25 @@
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">📚 Book Owl</h3>
+        <h3 align="center">📋 TaskTracker</h3>
         <div align="center">
-          <a href="https://book-owl-eight.vercel.app/" target="_blank">
-            <img src="https://cdn.dribbble.com/users/1138853/screenshots/14618628/media/68f2aef36f86294901a4b274c0d8b3c1.gif" width="400" alt="Book Owl Project"/>
+          <a href="https://personal-task-management.netlify.app/" target="_blank">
+            <img src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/media/9e5055da2ee6c899aab9403ceb7d0dc3.gif" width="400" alt="Task Management Project"/>
           </a>
-          <p><strong>Online Book Platform</strong></p>
-          <p>A modern book discovery and reading platform with personalized recommendations and social features.</p>
-          <p><strong>Tech Stack:</strong> Next.js, TypeScript, Tailwind CSS, Prisma</p>
+          <p><strong>Personal Task Management System</strong></p>
+          <p>A powerful and intuitive task management application with features like task organization, due dates, progress tracking, and team collaboration.</p>
+          <p><strong>Tech Stack:</strong> React.js, Node.js, MongoDB, Express, Tailwind CSS</p>
           <p>
-            <a href="https://book-owl-eight.vercel.app/" target="_blank">
-              <img src="https://img.shields.io/badge/-Live%20Demo-007ACC?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+            <a href="https://personal-task-management.netlify.app/" target="_blank">
+              <img src="https://img.shields.io/badge/-Live%20Demo-007ACC?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo"/>
+            </a>
+            <a href="https://github.com/alidiamond1/Personal_Task_Management" target="_blank">
+              <img src="https://img.shields.io/badge/-View%20Code-181717?style=for-the-badge&logo=github" alt="View Code"/>
             </a>
           </p>
         </div>
       </td>
+      <td width="50%">
       <td width="50%">
         <h3 align="center">✍️ Personal Blog Platform</h3>
         <div align="center">
