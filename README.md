@@ -103,34 +103,9 @@
           </p>
         </div>
       </td>
-    
     </td>
     </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">🎓 Student Performance Predictor</h3>
-        <div align="center">
-          <a href="https://student-performance-predictor-dusky.vercel.app/" target="_blank">
-            <img src="https://cdn.dribbble.com/users/1681709/screenshots/15271874/media/a5c4525453fd7dd5c9b6bbd89f4e6f3d.gif" width="400" alt="Student Performance Predictor"/>
-          </a>
-          <p><strong>ML-Based Academic Performance Prediction</strong></p>
-          <p>A machine learning web application that predicts student academic performance based on various factors including study habits, sleep patterns, attendance, and socioeconomic background.</p>
-          <p><strong>Tech Stack:</strong> Python, Flask, scikit-learn, pandas, HTML/CSS/JavaScript</p>
-          <p>
-            <a href="https://student-performance-predictor-dusky.vercel.app/" target="_blank">
-              <img src="https://img.shields.io/badge/-Live%20Demo-007ACC?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
-            </a>
-            <a href="https://github.com/alidiamond1/Student-Performance-Predictor" target="_blank">
-              <img src="https://img.shields.io/badge/-View%20Code-181717?style=for-the-badge&logo=github" alt="View Code"/>
-            </a>
-          </p>
-        </div>
-      </td>
-      <td width="50%">
-        <!-- Placeholder for future project -->
-      </td>
-    </tr>
-    
+  
   </table>
 </div>
 
