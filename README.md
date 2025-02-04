@@ -21,11 +21,14 @@
   </a>
 </div>
 
-- 💬 Ask me about **Spring Boot, MERN**
+### 👨‍💻 About Me:
 
-- 📫 How to reach me **Calilucky3@gmail.com**
-
-- 📄 Know about my experiences [file:///C:/Users/alidiamond/Desktop/AlidiamondCvResume.pdf](file:///C:/Users/alidiamond/Desktop/AlidiamondCvResume.pdf)
+- 🔭 I'm currently working on **Full Stack Development**
+- 🌱 I'm learning **Machine Learning, Deep Learning, Computer Vision, NLP**
+- 💼 Check my portfolio: [Personal Portfolio](https://github.com/alidiamond1/Personal-Portofolio)
+- 📝 I write articles on [Alidiamond.com](https://10web-site.ai/177/hip-lioness/)
+- 💬 Ask me about **Spring Boot, MERN, Web & Mobile Development**
+- 📫 Reach me at: **Calilucky3@gmail.com**
 
 - ⚡ Fun fact **I'm a full-stack developer, which means I can work on both the front-end and back-end of web applications. This gives me a well-rounded skill set that allows me to tackle a wide variety of project requirements. Whether it's building responsive user interfaces, designing efficient server-side logic, or integrating databases, I have the versatility to deliver complete, high-quality solutions.**
 
