@@ -29,15 +29,23 @@
 </div>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=alidiamond1&label=Profile%20views&color=0e75b6&style=flat" alt="alidiamond1" /> </p>-->
+### 🚀 What I Do:
 
-<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alidiamond1" alt="alidiamond1" /></a> </p>-->
-
-- 🌱 I’m currently learning **Spring Boot, MERN**
-
-- 👨‍💻 All of my projects are available at [https://github.com/alidiamond1/Personal-Portofolio](https://github.com/alidiamond1/Personal-Portofolio)
-
-- 📝 I regularly write articles on [Alidiamond.com](https://10web-site.ai/177/hip-lioness/)
+```typescript
+const alidiamond = {
+    title: "Full Stack Developer",
+    location: "Somalia",
+    skills: {
+        frontend: ["React", "JavaScript", "HTML5", "CSS3", "Bootstrap", "Tailwind"],
+        backend: ["Node.js", "Express", "Spring Boot", "Java", "Python"],
+        database: ["MongoDB", "MySQL", "PostgreSQL"],
+        ai_ml: ["TensorFlow", "PyTorch", "Scikit-learn"],
+        tools: ["Git", "Docker", "VS Code", "Figma"]
+    },
+    currentlyLearning: ["Machine Learning", "Deep Learning", "Computer Vision"],
+    passions: ["Web Development", "Mobile Apps", "AI & ML", "UI/UX Design"]
+};
+```
 
 - 💬 Ask me about **Spring Boot, MERN**
 
