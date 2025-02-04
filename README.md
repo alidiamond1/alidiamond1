@@ -9,27 +9,7 @@
 </h3>
 
 <div align="center">
-
-<details>
-<summary style="cursor: pointer; font-size: 1.2em;">🎯 About My Skills</summary>
-
-```typescript
-const alidiamond = {
-    title: "Full Stack Developer",
-    location: "Somalia",
-    skills: {
-        frontend: ["React", "JavaScript", "HTML5", "CSS3", "Bootstrap", "Tailwind"],
-        backend: ["Node.js", "Express", "Spring Boot", "Java", "Python"],
-        database: ["MongoDB", "MySQL", "PostgreSQL"],
-        ai_ml: ["TensorFlow", "PyTorch", "Scikit-learn"],
-        tools: ["Git", "Docker", "VS Code", "Figma"]
-    },
-    currentlyLearning: ["Machine Learning", "Deep Learning", "Computer Vision"],
-    passions: ["Web Development", "Mobile Apps", "AI & ML", "UI/UX Design"]
-};
-```
-
-</details>
+  <img src="https://raw.githubusercontent.com/alidiamond1/alidiamond1/main/assets/skills.png" alt="My Skills" width="800"/>
 </div>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
