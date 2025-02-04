@@ -52,8 +52,8 @@
 <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/> </a>
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
+<!-- <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> -->
 
 
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
@@ -104,25 +104,31 @@
         </div>
       </td>
       <td width="50%">
-        <h3 align="center">🎬 MediaMatch</h3>
+        <h3 align="center">🎓 Student Performance Predictor</h3>
         <div align="center">
-          <a href="https://media-match-six.vercel.app" target="_blank">
-            <img src="https://cdn.dribbble.com/users/1088894/screenshots/14195043/media/e47f59f6c32d6ee3a9897b87a8568291.gif" width="400" alt="MediaMatch Project"/>
+          <a href="https://student-performance-predictor-dusky.vercel.app/" target="_blank">
+            <img src="https://cdn.dribbble.com/users/1681709/screenshots/15271874/media/a5c4525453fd7dd5c9b6bbd89f4e6f3d.gif" width="400" alt="Student Performance Predictor"/>
           </a>
-          <p><strong>Movie Discovery Platform</strong></p>
-          <p>A modern web application for discovering movies based on your mood and preferences. Features include mood-based recommendations, watchlist management, and personalized suggestions.</p>
-          <p><strong>Tech Stack:</strong> React, Vite, Zustand, TailwindCSS, TMDB API, Framer Motion</p>
+          <p><strong>ML-Based Academic Performance Prediction</strong></p>
+          <p>A machine learning web application that predicts student academic performance based on various factors including study habits, sleep patterns, attendance, and socioeconomic background.</p>
+          <p><strong>Tech Stack:</strong> Python, Flask, scikit-learn, pandas, HTML/CSS/JavaScript</p>
           <p>
-            <a href="https://media-match-six.vercel.app" target="_blank">
+            <a href="https://student-performance-predictor-dusky.vercel.app/" target="_blank">
               <img src="https://img.shields.io/badge/-Live%20Demo-007ACC?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
             </a>
-            <a href="https://github.com/alidiamond1/MediaMatch" target="_blank">
+            <a href="https://github.com/alidiamond1/Student-Performance-Predictor" target="_blank">
               <img src="https://img.shields.io/badge/-View%20Code-181717?style=for-the-badge&logo=github" alt="View Code"/>
             </a>
           </p>
         </div>
       </td>
+      <td width="50%">
+        <!-- Placeholder for future project -->
+      </td>
+       
+      </td>
     </tr>
+    
   </table>
 </div>
 
