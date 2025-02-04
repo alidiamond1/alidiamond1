@@ -115,14 +115,14 @@
         </div>
       </td>
       <td width="50%">
-        <h3 align="center">🤖 AI Chat Assistant</h3>
+        <h3 align="center">🤖 AI Language Tutor</h3>
         <div align="center">
           <a href="https://github.com/alidiamond1/Personal-Portofolio" target="_blank">
             <img src="https://cdn.dribbble.com/users/1681709/screenshots/15271944/media/a487632495c6488307448b42e4505804.gif" width="400" alt="AI Chat Assistant"/>
           </a>
-          <p><strong>Intelligent Chatbot Platform</strong></p>
-          <p>Smart conversational AI assistant with natural language processing and context awareness.</p>
-          <p><strong>Tech Stack:</strong> Python, FastAPI, TensorFlow, React</p>
+          <p><strong>Intelligent AI Language Tutor</strong></p>
+          <p>AI Language Tutor is an innovative Next.js application designed to help users learn and practice languages with the assistance of artificial intelligence. This interactive platform provides personalized language learning experiences, making it easier and more engaging for users to improve their language skills.</p>
+          <p><strong>Tech Stack:</strong> Next.js, Tailwind CSS , TypeScript , React</p>
           <p>
             <a href="https://github.com/alidiamond1/Personal-Portofolio" target="_blank">
               <img src="https://img.shields.io/badge/-View%20Code-181717?style=for-the-badge&logo=github" alt="View Code"/>
