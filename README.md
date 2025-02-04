@@ -1,46 +1,32 @@
 [![MasterHead](https://maruf001-mt.github.io/Premium-Delivery/web.gif)](https://Alidiamond.io)
 
-<h1 align="center">Hi 👋, I'm <span style="border-right: .15em solid orange; width: 0; overflow: hidden; white-space: nowrap; display: inline-block; animation: typing 3.5s steps(30, end) forwards, blink-caret .5s step-end infinite;">Alidiamond</span></h1>
-<h3 align="center">A <span style="border-right: .15em solid orange; width: 0; overflow: hidden; white-space: nowrap; display: inline-block; animation: typing 3.5s steps(30, end) forwards, blink-caret .5s step-end infinite;">FullStack developer from Somalia</span></h3>
+# Hi 👋, I'm Alidiamond
 
-<div class="typing-container">
-  <p class="typing-text" style="font-size: 1.2em; text-align: center;">
-    <span style="border-right: .15em solid orange; width: 0; overflow: hidden; white-space: nowrap; display: inline-block; animation: typing 3.5s steps(30, end) 1s forwards, blink-caret .5s step-end infinite;">💻 Full Stack Developer</span><br>
-    <span style="border-right: .15em solid orange; width: 0; overflow: hidden; white-space: nowrap; display: inline-block; animation: typing 3.5s steps(30, end) 2s forwards, blink-caret .5s step-end infinite;">🌐 Web Development Expert</span><br>
-    <span style="border-right: .15em solid orange; width: 0; overflow: hidden; white-space: nowrap; display: inline-block; animation: typing 3.5s steps(30, end) 3s forwards, blink-caret .5s step-end infinite;">📱 Mobile App Developer</span><br>
-    <span style="border-right: .15em solid orange; width: 0; overflow: hidden; white-space: nowrap; display: inline-block; animation: typing 3.5s steps(30, end) 4s forwards, blink-caret .5s step-end infinite;">🤖 AI & ML Enthusiast</span><br>
-    <span style="border-right: .15em solid orange; width: 0; overflow: hidden; white-space: nowrap; display: inline-block; animation: typing 3.5s steps(30, end) 5s forwards, blink-caret .5s step-end infinite;">🎨 UI/UX Designer</span>
-  </p>
+<div align="center">
+  <img src="https://maruf001-mt.github.io/Premium-Delivery/web.gif" alt="MasterHead" width="1000"/>
 </div>
 
-<style>
-@keyframes typing {
-  from { width: 0 }
-  to { width: 100% }
-}
+<h3 align="center">A FullStack developer from Somalia</h3>
 
-@keyframes blink-caret {
-  from, to { border-color: transparent }
-  50% { border-color: orange }
-}
-
-.typing-container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  margin: 20px 0;
-}
-
-.typing-text {
-  font-family: 'Courier New', Courier, monospace;
-  color: #333;
-  line-height: 2;
-}
-
-.typing-text span {
-  margin: 5px 0;
-}
-</style>
+<div align="center">
+  
+  ```typescript
+  const alidiamond = {
+    title: "Full Stack Developer",
+    location: "Somalia",
+    skills: {
+      frontend: ["React", "JavaScript", "HTML5", "CSS3", "Bootstrap", "Tailwind"],
+      backend: ["Node.js", "Express", "Spring Boot", "Java", "Python"],
+      database: ["MongoDB", "MySQL", "PostgreSQL"],
+      ai_ml: ["TensorFlow", "PyTorch", "Scikit-learn"],
+      tools: ["Git", "Docker", "VS Code", "Figma"]
+    },
+    currentlyLearning: ["Machine Learning", "Deep Learning", "Computer Vision"],
+    passions: ["Web Development", "Mobile Apps", "AI & ML", "UI/UX Design"]
+  };
+  ```
+  
+</div>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=alidiamond1&label=Profile%20views&color=0e75b6&style=flat" alt="alidiamond1" /> </p>-->
