@@ -124,6 +124,25 @@
           </p>
         </div>
       </td>
+      <td width="50%">
+        <h3 align="center">🎯 AI Language Tutor</h3>
+        <div align="center">
+          <a href="https://ai-language-tutor-rose.vercel.app" target="_blank">
+            <img src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/media/9c7e0c1779dd11c61c53a6b8d25f4b1a.gif" width="400" alt="AI Language Tutor"/>
+          </a>
+          <p><strong>Interactive Language Learning Platform</strong></p>
+          <p>An innovative AI-powered language learning application featuring personalized learning paths, interactive conversation practice, and real-time feedback for multiple languages.</p>
+          <p><strong>Tech Stack:</strong> Next.js, TypeScript, Tailwind CSS, Vercel AI SDK</p>
+          <p>
+            <a href="https://ai-language-tutor-rose.vercel.app" target="_blank">
+              <img src="https://img.shields.io/badge/-Live%20Demo-007ACC?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+            </a>
+            <a href="https://github.com/alidiamond1/AI-Language-Tutor" target="_blank">
+              <img src="https://img.shields.io/badge/-View%20Code-181717?style=for-the-badge&logo=github" alt="View Code"/>
+            </a>
+          </p>
+        </div>
+      </td>
     </tr>
 </table>
 </div>
