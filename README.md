@@ -1,7 +1,19 @@
 [![MasterHead](https://maruf001-mt.github.io/Premium-Delivery/web.gif)](https://Alidiamond.io)
 
-<h1 align="center">Hi 👋, I'm Alidiamond</h1>
-<h3 align="center">A FullStack developer from Somalia</h3>
+<h1 align="center">Hi 👋, I'm <span style="border-right: .15em solid orange; animation: typing 3.5s steps(30, end), blink-caret .5s step-end infinite;">Alidiamond</span></h1>
+<h3 align="center">A <span style="border-right: .15em solid orange; animation: typing 3.5s steps(30, end), blink-caret .5s step-end infinite;">FullStack developer from Somalia</span></h3>
+
+<style>
+@keyframes typing {
+  from { width: 0 }
+  to { width: 100% }
+}
+
+@keyframes blink-caret {
+  from, to { border-color: transparent }
+  50% { border-color: orange }
+}
+</style>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=alidiamond1&label=Profile%20views&color=0e75b6&style=flat" alt="alidiamond1" /> </p>-->
 
