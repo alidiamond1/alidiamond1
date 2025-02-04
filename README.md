@@ -1,4 +1,4 @@
-[![MasterHead](https://maruf001-mt.github.io/Premium-Delivery/web.gif)](https://Alidiamond.io)
+
 
 # Hi 👋, I'm Alidiamond
 
