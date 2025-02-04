@@ -68,7 +68,8 @@
         <h3 align="center">📋 TaskTracker</h3>
         <div align="center">
           <a href="https://personal-task-management.netlify.app/" target="_blank">
-            <img src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/media/9e5055da2ee6c899aab9403ceb7d0dc3.gif" width="400" alt="Task Management Project"/>
+<!--             <img src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/media/9e5055da2ee6c899aab9403ceb7d0dc3.gif" width="400" alt="Task Management Project"/> -->
+            <img src="https://cdn.dribbble.com/users/1626229/screenshots/14152042/media/8fa6c88a7c8a6d3393cf5a4e8df74c0a.gif" width="400" alt="Task Management Project"/>
           </a>
           <p><strong>Personal Task Management System</strong></p>
           <p>A powerful and intuitive task management application with features like task organization, due dates, progress tracking, and team collaboration.</p>
