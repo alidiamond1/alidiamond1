@@ -105,8 +105,6 @@
           </p>
         </div>
       </td>
-
-    <tr>
       <td width="50%">
         <h3 align="center">🎓 Student Performance Predictor</h3>
         <div align="center">
@@ -126,12 +124,7 @@
           </p>
         </div>
       </td>
-      <td width="50%">
-        <!-- Placeholder for future project -->
-      </td>
     </tr>
-      
-  
 </table>
 </div>
 
