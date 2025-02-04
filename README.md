@@ -31,7 +31,7 @@
 | Category | Skills |
 |----------|---------|
 | Web Development | MERN Stack, Spring Boot, RESTful APIs |
-| Mobile Development | React Native, Cross-Platform Development |
+| Mobile Development | Flutter, Cross-Platform Development |
 | Design | UI/UX, Responsive Design, User-Centered Design |
 | AI & ML | Data Analysis, Machine Learning, Deep Learning |
 
