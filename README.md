@@ -9,7 +9,10 @@
 </h3>
 
 <div align="center">
-  
+
+<details>
+<summary style="cursor: pointer; font-size: 1.2em;">🎯 About My Skills</summary>
+
 ```typescript
 const alidiamond = {
     title: "Full Stack Developer",
@@ -26,6 +29,7 @@ const alidiamond = {
 };
 ```
 
+</details>
 </div>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
