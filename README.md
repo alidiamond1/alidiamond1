@@ -59,6 +59,81 @@
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
+### 🚀 My Recent Projects
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">📚 Book Owl</h3>
+        <div align="center">
+          <a href="https://book-owl-eight.vercel.app/" target="_blank">
+            <img src="https://cdn.dribbble.com/users/1138853/screenshots/14618628/media/68f2aef36f86294901a4b274c0d8b3c1.gif" width="400" alt="Book Owl Project"/>
+          </a>
+          <p><strong>Online Book Platform</strong></p>
+          <p>A modern book discovery and reading platform with personalized recommendations and social features.</p>
+          <p><strong>Tech Stack:</strong> Next.js, TypeScript, Tailwind CSS, Prisma</p>
+          <p>
+            <a href="https://book-owl-eight.vercel.app/" target="_blank">
+              <img src="https://img.shields.io/badge/-Live%20Demo-007ACC?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+            </a>
+          </p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">✍️ Personal Blog Platform</h3>
+        <div align="center">
+          <a href="https://personal-blogs-platform.vercel.app" target="_blank">
+            <img src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/media/9e5055da2ee6c899aab9403ceb7d0dc3.gif" width="400" alt="Blog Platform"/>
+          </a>
+          <p><strong>Dynamic Blogging Platform</strong></p>
+          <p>Feature-rich blogging platform with markdown support, categories, and responsive design.</p>
+          <p><strong>Tech Stack:</strong> React.js, Node.js, MongoDB, Express</p>
+          <p>
+            <a href="https://personal-blogs-platform.vercel.app" target="_blank">
+              <img src="https://img.shields.io/badge/-Live%20Demo-007ACC?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+            </a>
+          </p>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🎙️ Text-to-Speech App</h3>
+        <div align="center">
+          <a href="https://text-to-speech-app-seven.vercel.app" target="_blank">
+            <img src="https://cdn.dribbble.com/users/1787323/screenshots/7123758/media/2df1f13c09089319897d4e8c8b1b2f46.gif" width="400" alt="Text-to-Speech App"/>
+          </a>
+          <p><strong>AI-Powered Text-to-Speech Converter</strong></p>
+          <p>Advanced text-to-speech application with multiple voices, languages, and export options.</p>
+          <p><strong>Tech Stack:</strong> React, Web Speech API, TailwindCSS</p>
+          <p>
+            <a href="https://text-to-speech-app-seven.vercel.app" target="_blank">
+              <img src="https://img.shields.io/badge/-Live%20Demo-007ACC?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+            </a>
+          </p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">🤖 AI Chat Assistant</h3>
+        <div align="center">
+          <a href="https://github.com/alidiamond1/Personal-Portofolio" target="_blank">
+            <img src="https://cdn.dribbble.com/users/1681709/screenshots/15271944/media/a487632495c6488307448b42e4505804.gif" width="400" alt="AI Chat Assistant"/>
+          </a>
+          <p><strong>Intelligent Chatbot Platform</strong></p>
+          <p>Smart conversational AI assistant with natural language processing and context awareness.</p>
+          <p><strong>Tech Stack:</strong> Python, FastAPI, TensorFlow, React</p>
+          <p>
+            <a href="https://github.com/alidiamond1/Personal-Portofolio" target="_blank">
+              <img src="https://img.shields.io/badge/-View%20Code-181717?style=for-the-badge&logo=github" alt="View Code"/>
+            </a>
+          </p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
 # GitHub Achievements 🏆
 
 
