@@ -103,33 +103,20 @@
         </div>
       </td>
       <td width="50%">
-        <h3 align="center">🎙️ Text-to-Speech App</h3>
+        <h3 align="center">🎬 MediaMatch</h3>
         <div align="center">
-          <a href="https://text-to-speech-app-seven.vercel.app" target="_blank">
-            <img src="https://cdn.dribbble.com/users/1787323/screenshots/7123758/media/2df1f13c09089319897d4e8c8b1b2f46.gif" width="400" alt="Text-to-Speech App"/>
+          <a href="https://media-match-six.vercel.app" target="_blank">
+            <img src="https://cdn.dribbble.com/users/1088894/screenshots/14195043/media/e47f59f6c32d6ee3a9897b87a8568291.gif" width="400" alt="MediaMatch Project"/>
           </a>
-          <p><strong>AI-Powered Text-to-Speech Converter</strong></p>
-          <p>Advanced text-to-speech application with multiple voices, languages, and export options.</p>
-          <p><strong>Tech Stack:</strong> React, Web Speech API, TailwindCSS</p>
+          <p><strong>Movie Discovery Platform</strong></p>
+          <p>A modern web application for discovering movies based on your mood and preferences. Features include mood-based recommendations, watchlist management, and personalized suggestions.</p>
+          <p><strong>Tech Stack:</strong> React, Vite, Zustand, TailwindCSS, TMDB API, Framer Motion</p>
           <p>
-            <a href="https://text-to-speech-app-seven.vercel.app" target="_blank">
+            <a href="https://media-match-six.vercel.app" target="_blank">
               <img src="https://img.shields.io/badge/-Live%20Demo-007ACC?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
             </a>
-          </p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">🤖 AI Language Tutor</h3>
-        <div align="center">
-          <a href="https://github.com/alidiamond1/Personal-Portofolio" target="_blank">
-            <img src="https://cdn.dribbble.com/users/1681709/screenshots/15271944/media/a487632495c6488307448b42e4505804.gif" width="400" alt="AI Chat Assistant"/>
-          </a>
-          <p><strong>Intelligent AI Language Tutor</strong></p>
-          <p>AI Language Tutor is an innovative Next.js application designed to help users learn and practice languages with the assistance of artificial intelligence. This interactive platform provides personalized language learning experiences, making it easier and more engaging for users to improve their language skills.</p>
-          <p><strong>Tech Stack:</strong> Next.js, Tailwind CSS , TypeScript , React</p>
-          <p>
-            <a href="https://ai-language-tutor-rose.vercel.app/" target="_blank">
-              <img src="https://img.shields.io/badge/-Live%20Demo-007ACC?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+            <a href="https://github.com/alidiamond1/MediaMatch" target="_blank">
+              <img src="https://img.shields.io/badge/-View%20Code-181717?style=for-the-badge&logo=github" alt="View Code"/>
             </a>
           </p>
         </div>
