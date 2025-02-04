@@ -1,7 +1,7 @@
 [![MasterHead](https://maruf001-mt.github.io/Premium-Delivery/web.gif)](https://Alidiamond.io)
 
-<h1 align="center">Hi 👋, I'm <span style="border-right: .15em solid orange; animation: typing 3.5s steps(30, end), blink-caret .5s step-end infinite;">Alidiamond</span></h1>
-<h3 align="center">A <span style="border-right: .15em solid orange; animation: typing 3.5s steps(30, end), blink-caret .5s step-end infinite;">FullStack developer from Somalia</span></h3>
+<h1 align="center">Hi 👋, I'm <span style="border-right: .15em solid orange; width: 0; overflow: hidden; white-space: nowrap; display: inline-block; animation: typing 3.5s steps(30, end) forwards, blink-caret .5s step-end infinite;">Alidiamond</span></h1>
+<h3 align="center">A <span style="border-right: .15em solid orange; width: 0; overflow: hidden; white-space: nowrap; display: inline-block; animation: typing 3.5s steps(30, end) forwards, blink-caret .5s step-end infinite;">FullStack developer from Somalia</span></h3>
 
 <style>
 @keyframes typing {
