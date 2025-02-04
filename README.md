@@ -31,21 +31,11 @@ const alidiamond = {
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 ### 🚀 What I Do:
 
-```typescript
-const alidiamond = {
-    title: "Full Stack Developer",
-    location: "Somalia",
-    skills: {
-        frontend: ["React", "JavaScript", "HTML5", "CSS3", "Bootstrap", "Tailwind"],
-        backend: ["Node.js", "Express", "Spring Boot", "Java", "Python"],
-        database: ["MongoDB", "MySQL", "PostgreSQL"],
-        ai_ml: ["TensorFlow", "PyTorch", "Scikit-learn"],
-        tools: ["Git", "Docker", "VS Code", "Figma"]
-    },
-    currentlyLearning: ["Machine Learning", "Deep Learning", "Computer Vision"],
-    passions: ["Web Development", "Mobile Apps", "AI & ML", "UI/UX Design"]
-};
-```
+<div align="center">
+  <a href="https://carbon.now.sh/embed?bg=rgba%2874%2C144%2C226%2C0%29&t=material&wt=none&l=javascript&width=680&ds=false&dsyoff=20px&dsblur=68px&wc=true&wa=true&pv=56px&ph=56px&ln=false&fl=1&fm=Fira%20Code&fs=14px&lh=152%25&si=false&es=2x&wm=false&code=const%2520skills%2520%253D%2520%257B%250A%2520%2520%2520%2520webDev%253A%2520%257B%250A%2520%2520%2520%2520%2520%2520%2520%2520frontend%253A%2520%2522Building%2520responsive%2520and%2520interactive%2520UIs%2522%252C%250A%2520%2520%2520%2520%2520%2520%2520%2520backend%253A%2520%2522Creating%2520robust%2520server-side%2520applications%2522%252C%250A%2520%2520%2520%2520%2520%2520%2520%2520fullstack%253A%2520%2522End-to-end%2520application%2520development%2522%250A%2520%2520%2520%2520%257D%252C%250A%2520%2520%2520%2520mobileDev%253A%2520%257B%250A%2520%2520%2520%2520%2520%2520%2520%2520native%253A%2520%2522React%2520Native%2520development%2522%252C%250A%2520%2520%2520%2520%2520%2520%2520%2520crossPlatform%253A%2520%2522Multi-platform%2520app%2520solutions%2522%250A%2520%2520%2520%2520%257D%252C%250A%2520%2520%2520%2520aiml%253A%2520%257B%250A%2520%2520%2520%2520%2520%2520%2520%2520areas%253A%2520%255B%2522Machine%2520Learning%2522%252C%2520%2522Deep%2520Learning%2522%252C%2520%2522Computer%2520Vision%2522%255D%252C%250A%2520%2520%2520%2520%2520%2520%2520%2520tools%253A%2520%255B%2522TensorFlow%2522%252C%2520%2522PyTorch%2522%252C%2520%2522Scikit-learn%2522%255D%252C%250A%2520%2520%2520%2520%2520%2520%2520%2520focus%253A%2520%2522Building%2520intelligent%2520solutions%2522%250A%2520%2520%2520%2520%257D%250A%257D">
+    <img alt="Skills Snapshot" src="https://carbon.now.sh/embed/skills.png" style="max-width: 100%;" />
+  </a>
+</div>
 
 - 💬 Ask me about **Spring Boot, MERN**
 
