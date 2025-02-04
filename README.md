@@ -124,8 +124,8 @@
           <p>AI Language Tutor is an innovative Next.js application designed to help users learn and practice languages with the assistance of artificial intelligence. This interactive platform provides personalized language learning experiences, making it easier and more engaging for users to improve their language skills.</p>
           <p><strong>Tech Stack:</strong> Next.js, Tailwind CSS , TypeScript , React</p>
           <p>
-            <a href="https://github.com/alidiamond1/Personal-Portofolio" target="_blank">
-              <img src="https://img.shields.io/badge/-View%20Code-181717?style=for-the-badge&logo=github" alt="View Code"/>
+            <a href="https://ai-language-tutor-rose.vercel.app/" target="_blank">
+              <img src="https://img.shields.io/badge/-Live%20Demo-007ACC?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
             </a>
           </p>
         </div>
