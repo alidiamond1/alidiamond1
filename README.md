@@ -1,31 +1,31 @@
-
-
-# Hi 👋, I'm Alidiamond
+# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=F7A11B&background=FF000000&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Alidiamond;Full+Stack+Developer;AI%2FML+Enthusiast;Mobile+App+Developer;UI%2FUX+Designer" alt="Typing SVG" /></a>
 
 <div align="center">
   <img src="https://maruf001-mt.github.io/Premium-Delivery/web.gif" alt="MasterHead" width="1000"/>
 </div>
 
-<h3 align="center">A FullStack developer from Somalia</h3>
+<h3 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=F7A11B&background=FF000000&center=true&vCenter=true&random=false&width=435&lines=A+FullStack+developer+from+Somalia;Passionate+about+Web+Development;Expert+in+MERN+Stack;Building+Amazing+Applications" alt="Typing SVG" /></a>
+</h3>
 
 <div align="center">
   
-  ```typescript
-  const alidiamond = {
+```typescript
+const alidiamond = {
     title: "Full Stack Developer",
     location: "Somalia",
     skills: {
-      frontend: ["React", "JavaScript", "HTML5", "CSS3", "Bootstrap", "Tailwind"],
-      backend: ["Node.js", "Express", "Spring Boot", "Java", "Python"],
-      database: ["MongoDB", "MySQL", "PostgreSQL"],
-      ai_ml: ["TensorFlow", "PyTorch", "Scikit-learn"],
-      tools: ["Git", "Docker", "VS Code", "Figma"]
+        frontend: ["React", "JavaScript", "HTML5", "CSS3", "Bootstrap", "Tailwind"],
+        backend: ["Node.js", "Express", "Spring Boot", "Java", "Python"],
+        database: ["MongoDB", "MySQL", "PostgreSQL"],
+        ai_ml: ["TensorFlow", "PyTorch", "Scikit-learn"],
+        tools: ["Git", "Docker", "VS Code", "Figma"]
     },
     currentlyLearning: ["Machine Learning", "Deep Learning", "Computer Vision"],
     passions: ["Web Development", "Mobile Apps", "AI & ML", "UI/UX Design"]
-  };
-  ```
-  
+};
+```
+
 </div>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
