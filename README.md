@@ -84,7 +84,6 @@
         </div>
       </td>
       <td width="50%">
-      <td width="50%">
         <h3 align="center">✍️ Personal Blog Platform</h3>
         <div align="center">
           <a href="https://personal-blogs-platform.vercel.app" target="_blank">
