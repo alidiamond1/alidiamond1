@@ -87,20 +87,21 @@
         <h3 align="center">✍️ Personal Blog Platform</h3>
         <div align="center">
           <a href="https://personal-blogs-platform.vercel.app" target="_blank">
-            <img src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/media/9e5055da2ee6c899aab9403ceb7d0dc3.gif" width="400" alt="Blog Platform"/>
+            <img src="https://cdn.dribbble.com/users/2851002/screenshots/7736091/media/e08e0676dd54ae8715c2d72bbdd51eb2.gif" width="400" alt="Blog Platform"/>
           </a>
-          <p><strong>Dynamic Blogging Platform</strong></p>
-          <p>Feature-rich blogging platform with markdown support, categories, and responsive design.</p>
-          <p><strong>Tech Stack:</strong> React.js, Node.js, MongoDB, Express</p>
+          <p><strong>Modern Blogging Platform</strong></p>
+          <p>A feature-rich blogging platform with authentication, localStorage persistence, blog management, and responsive design. Create, edit, and manage blog posts with image support.</p>
+          <p><strong>Tech Stack:</strong> React, Vite, Tailwind CSS, LocalStorage</p>
           <p>
             <a href="https://personal-blogs-platform.vercel.app" target="_blank">
               <img src="https://img.shields.io/badge/-Live%20Demo-007ACC?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
             </a>
+            <a href="https://github.com/alidiamond1/Personal-Blogs-Platform" target="_blank">
+              <img src="https://img.shields.io/badge/-View%20Code-181717?style=for-the-badge&logo=github" alt="View Code"/>
+            </a>
           </p>
         </div>
       </td>
-    </tr>
-    <tr>
       <td width="50%">
         <h3 align="center">🎙️ Text-to-Speech App</h3>
         <div align="center">
