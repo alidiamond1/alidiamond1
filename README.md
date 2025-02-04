@@ -1,4 +1,4 @@
-# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=F7A11B&background=FF000000&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Alidiamond;Full+Stack+Developer;AI%2FML+Enthusiast;Mobile+App+Developer;UI%2FUX+Designer" alt="Typing SVG" /></a>
+# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F7A11B&background=FF000000&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Ali+Nor+Abdulle+(Alidiamond);Hi+%F0%9F%91%8B%2C+I'm+Ali+Nor+Abdulle+(Alidiamond);Hi+%F0%9F%91%8B%2C+I'm+Ali+Nor+Abdulle+(Alidiamond)" alt="Typing SVG" /></a>
 
 <div align="center">
   <img src="https://maruf001-mt.github.io/Premium-Delivery/web.gif" alt="MasterHead" width="1000"/>
