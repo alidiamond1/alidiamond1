@@ -88,10 +88,12 @@
         <h3 align="center">✍️ Personal Blog Platform</h3>
         <div align="center">
           <a href="https://personal-blogs-platform.vercel.app" target="_blank">
-            <img src="https://cdn.dribbble.com/users/2851002/screenshots/7736091/media/e08e0676dd54ae8715c2d72bbdd51eb2.gif" width="400" alt="Blog Platform"/>
+            <img src="https://cdn.dribbble.com/users/2851002/screenshots/7736091/media/e08e0676dd54ae8715c2d72bbdd51eb2.gif" width="400" alt="Blog     
+              Platform"/>
           </a>
           <p><strong>Modern Blogging Platform</strong></p>
-          <p>A feature-rich blogging platform with authentication, localStorage persistence, blog management, and responsive design. Create, edit, and manage blog posts with image support.</p>
+          <p>A feature-rich blogging platform with authentication, localStorage persistence, blog management, and responsive design. Create, edit, and 
+             manage blog posts with image support.</p>
           <p><strong>Tech Stack:</strong> React, Vite, Tailwind CSS, LocalStorage</p>
           <p>
             <a href="https://personal-blogs-platform.vercel.app" target="_blank">
@@ -103,10 +105,10 @@
           </p>
         </div>
       </td>
-    </td>
-    </tr>
-  
-  </table>
+      
+  </td>
+  </tr>
+</table>
 </div>
 
 # GitHub Achievements 🏆
