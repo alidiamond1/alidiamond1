@@ -24,7 +24,7 @@
 - 📝 I write articles on [Alidiamond.com](https://10web-site.ai/177/hip-lioness/)
 - 💬 Ask me about **Spring Boot, MERN, Web & Mobile Development**
 - 📫 Reach me at: **Calilucky3@gmail.com**
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/16RoPMK0JNT3ORLSeaL4gctJJnD7zWSSX/view?usp=drive_link)
+- 📄 Know about my experiences [MyResume,CV](https://drive.google.com/file/d/16RoPMK0JNT3ORLSeaL4gctJJnD7zWSSX/view?usp=drive_link)
 
 ### 🚀 What I Do:
 
