@@ -19,7 +19,7 @@
 ### 👨‍💻 About Me:
 
 - 🔭 I'm currently working on **Full Stack Development**
-- 🌱 I'm learning **Machine Learning, Deep Learning, Computer Vision, NLP**
+- 🌱 I'm learning **Machine Learning, Deep Learning, Computer Vision, NLP, Nextjs, React-Native Expo-App**
 - 💼 Check my portfolio: [Personal Portfolio](https://github.com/alidiamond1/Personal-Portofolio)
 - 📝 I write articles on [Alidiamond.com](https://10web-site.ai/177/hip-lioness/)
 - 💬 Ask me about **Spring Boot, MERN, Web & Mobile Development**
