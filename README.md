@@ -70,10 +70,6 @@
   <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="Next.js" width="40" height="40"/> 
 </a>
 
-
-
-
-
 ### 🚀 My Recent Projects
 
 <div align="center">
