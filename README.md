@@ -61,6 +61,16 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="40" height="40"/> </a>
+<!-- Socket.io -->
+<a href="https://socket.io/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/socketio/socketio-icon.svg" alt="Socket.io" width="40" height="40"/> 
+</a>
+<!-- Next.js -->
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="Next.js" width="40" height="40"/> 
+</a>
+
 
 
 
