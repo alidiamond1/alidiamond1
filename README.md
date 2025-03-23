@@ -20,9 +20,9 @@
 
 - 🔭 I'm currently working on **Full Stack Development**
 - 🌱 I'm learning **Machine Learning, Deep Learning, Computer Vision, NLP, Nextjs, React-Native Expo-App**
-- 💼 Check my portfolio: [Personal Portfolio](https://github.com/alidiamond1/Personal-Portofolio)
-- 📝 I write articles on [Alidiamond.com](https://10web-site.ai/177/hip-lioness/)
-- 💬 Ask me about **Spring Boot, MERN, Web & Mobile Development**
+- 💼 Check my portfolio: [Personal Portfolio](https://github.com/alidiamond1/ali-diamond-portfolio)
+- 📝 I write articles on [Alidiamond.com](https://alidiamond.netlify.app/)
+- 💬 Ask me about **Spring Boot, MERN, PHP Web Developer & Mobile Development**
 - 📫 Reach me at: **Calilucky3@gmail.com**
 - 📄 Know about my experiences [MyResume,CV](https://drive.google.com/file/d/16RoPMK0JNT3ORLSeaL4gctJJnD7zWSSX/view?usp=drive_link)
 
@@ -30,7 +30,7 @@
 
 | Category | Skills |
 |----------|---------|
-| Web Development | MERN Stack, Spring Boot, RESTful APIs |
+| Web Development | MERN Stack, Spring Boot, PHP Web Developer RESTful APIs |
 | Mobile Development | Flutter, Cross-Platform Development |
 | Design | UI/UX, Responsive Design, User-Centered Design |
 | AI & ML | Data Analysis, Machine Learning, Deep Learning |
