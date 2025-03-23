@@ -24,7 +24,7 @@
 - 📝 I write articles on [Alidiamond.com](https://alidiamond.netlify.app/)
 - 💬 Ask me about **Spring Boot, MERN, PHP Web Developer & Mobile Development**
 - 📫 Reach me at: **Calilucky3@gmail.com**
-- 📄 Know about my experiences [https://drive.google.com/file/d/1uU-QMtCDfKmrwsO6UWbCTiNv2_uw2BwB/view?usp=drive_link)
+- 📄 Know about my experiences [MyResume](https://drive.google.com/file/d/1uU-QMtCDfKmrwsO6UWbCTiNv2_uw2BwB/view?usp=drive_link)
 
 ### 🚀 What I Do:
 
