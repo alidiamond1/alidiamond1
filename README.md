@@ -37,7 +37,7 @@
 
 
 
-- ⚡ Fun fact **I'm a full-stack developer, which means I can work on both the front-end and back-end of web applications. This gives me a well-rounded skill set that allows me to tackle a wide variety of project requirements. Whether it's building responsive user interfaces, designing efficient server-side logic, or integrating databases, I have the versatility to deliver complete, high-quality solutions.** [Clone Poe.com](https://poeclone-2ym7z1sv.adaptive.ai/?_evid=xKDtpL2RLU3HLGRH)
+- ⚡ Fun fact **I'm a full-stack developer, which means I can work on both the front-end and back-end of web applications. This gives me a well-rounded skill set that allows me to tackle a wide variety of project requirements. Whether it's building responsive user interfaces, designing efficient server-side logic, or integrating databases, I have the versatility to deliver complete, high-quality solutions.** [Clone Poe.com](https://poeclone-2ym7z1sv.adaptive.ai)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
