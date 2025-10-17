@@ -173,6 +173,30 @@
   <table>
     <tr>
       <td width="50%">
+        <h3 align="center"> SmartContent AI </h3>
+        <div align="center">
+          <a href="https://smart-ai-content.vercel.app/" target="_blank">
+<!--             <img src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/media/9e5055da2ee6c899aab9403ceb7d0dc3.gif" width="400" alt="SmartContent AI"/> -->
+            <img src="https://cdn.dribbble.com/users/1626229/screenshots/14152042/media/8fa6c88a7c8a6d3393cf5a4e8df74c0a.gif" width="400" alt="SmartContent AI"/>
+          </a>
+          <p><strong>SmartContent AI - Full Stack Application</strong></p>
+          <p>A modern AI-powered content creation platform with user authentication, built with React, TypeScript, Express, and MongoDB..</p>
+          <p><strong>Tech Stack:</strong> React.js, Node.js, Express, MongoDB, Express, Tailwind CSS</p>
+          <p>
+            <a href="https://smart-ai-content.vercel.app/" target="_blank">
+              <img src="https://img.shields.io/badge/-Live%20Demo-007ACC?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo"/>
+            </a>
+            <a href="https://github.com/alidiamond1/SmartContent-AI" target="_blank">
+              <img src="https://img.shields.io/badge/-View%20Code-181717?style=for-the-badge&logo=github" alt="View Code"/>
+            </a>
+          </p>
+        </div>
+      </td>
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
         <h3 align="center">📋 TaskTracker</h3>
         <div align="center">
           <a href="https://personal-task-management.netlify.app/" target="_blank">
