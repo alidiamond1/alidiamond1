@@ -21,7 +21,7 @@
 - 🔭 I'm currently working on **Full Stack Development**
 - 🌱 I'm learning **Machine Learning, Deep Learning, Computer Vision, NLP, Nextjs, React-Native Expo-App**
 - 💼 Check my portfolio: [Personal Portfolio](https://github.com/alidiamond1/ali-diamond-portfolio)
-- 📝 I write articles on [Alidiamond.com](https://alidiamond.netlify.app/)
+- 📝 I write articles on [Alidiamond.com](https://alinurabdulle.vercel.app/)
 - 💬 Ask me about **Spring Boot, MERN, PHP Web Developer & Mobile Development**
 - 📫 Reach me at: **Calilucky3@gmail.com**
 - 📄 Know about my experiences [MyResume](https://drive.google.com/file/d/1uU-QMtCDfKmrwsO6UWbCTiNv2_uw2BwB/view?usp=drive_link)
