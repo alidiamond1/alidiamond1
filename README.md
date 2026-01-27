@@ -44,22 +44,22 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/aliyare1113" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="40" />
   </a>&nbsp;&nbsp;
   <a href="https://linkedin.com/in/alidiamond" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
   </a>&nbsp;&nbsp;
   <a href="https://fb.com/alidiamond10" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" height="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="40" />
   </a>&nbsp;&nbsp;
   <a href="https://instagram.com/maxamed_diamond" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
   </a>&nbsp;&nbsp;
   <a href="https://www.youtube.com/c/alidiamond100" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=youtube" alt="YouTube" height="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="40" width="40" />
   </a>&nbsp;&nbsp;
   <a href="https://wa.me/252619899733" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=whatsapp" alt="WhatsApp" height="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="40" width="40" />
   </a>
 </p>
 
