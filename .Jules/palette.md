@@ -9,3 +9,7 @@
 ## 2026-01-27 - [URL Encoding for Dynamic SVGs]
 **Learning:** When using dynamic SVG services like 'readme-typing-svg', special characters and emojis in the URL parameters MUST be URL-encoded (e.g., 👋 to %F0%9F%91%8B) to ensure they load correctly across all browsers and GitHub's image proxy (Camo). Literal emojis in URLs can cause the image to break.
 **Action:** Always URL-encode parameters for external image services in READMEs.
+
+## 2026-01-27 - [Unified Icon Sets for Profile UX]
+**Learning:** Using individual icons from various sources often leads to inconsistent sizing, styles, and broken links. Adopting a unified icon set like 'Skill Icons' (skillicons.dev) provides a much more polished, professional, and stable UI for technical profiles.
+**Action:** Prefer unified icon sets over individual image links for listing technical skills in READMEs.
