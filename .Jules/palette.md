@@ -3,7 +3,7 @@
 **Action:** Always check social icon alt text and consider adding a "Back to Top" link for long READMEs.
 
 ## 2026-01-27 - [Broken HTML in Markdown Tables]
-**Learning:** Complex layout attempts in Markdown using nested HTML `<table>` and `<div>` tags are prone to structural errors that can cause rendering issues. A single, clean `<table>` structure is more robust and easier to maintain.
+**Learning:** Complex layout attempts in Markdown using nested HTML <table> and <div> tags are prone to structural errors that can cause rendering issues. A single, clean <table> structure is more robust and easier to maintain.
 **Action:** Simplify nested table structures in READMEs to improve maintainability and rendering consistency.
 
 ## 2026-01-27 - [URL Encoding for Dynamic SVGs]
@@ -13,3 +13,7 @@
 ## 2026-01-27 - [Unified Icon Sets for Profile UX]
 **Learning:** Using individual icons from various sources often leads to inconsistent sizing, styles, and broken links. Adopting a unified icon set like 'Skill Icons' (skillicons.dev) provides a much more polished, professional, and stable UI for technical profiles.
 **Action:** Prefer unified icon sets over individual image links for listing technical skills in READMEs.
+
+## 2026-01-27 - [Individually Clickable Skill Icons]
+**Learning:** While grouping icons into a single image (like Skill Icons combined) is cleaner code-wise, it prevents users from clicking individual technologies to see documentation. For developers who want to showcase specific proficiencies with deep links, individual icons wrapped in <a> tags are superior for UX and information density.
+**Action:** Use individual icons instead of grouped images when the user wants each skill to be a separate, clickable link.
