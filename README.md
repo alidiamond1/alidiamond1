@@ -1,11 +1,12 @@
-# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F7A11B&background=FF000000&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Ali+Nor+Abdulle;Hi+%F0%9F%91%8B%2C+I'm+Ali+Nor+Abdulle;Hi+%F0%9F%91%8B%2C+I'm+Ali+Nor+Abdulle" alt="Typing SVG" /></a>
+<a name="top"></a>
+# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F7A11B&background=FF000000&center=true&vCenter=true&random=false&width=600&lines=Hi+there!+%F0%9F%91%8B;I'm+Ali+Nor+Abdulle;FullStack+Developer;Welcome+to+my+2026+Profile!+🚀" alt="Hi there! 👋 I'm Ali Nor Abdulle, a FullStack Developer. Welcome to my 2026 Profile!" /></a>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/alidiamond1/alidiamond1/main/assets/skills.png" alt="My Skills" width="800"/>
+  <img src="https://raw.githubusercontent.com/alidiamond1/alidiamond1/main/assets/skills.png" alt="My Skills: MERN Stack, Spring Boot, Flutter, and AI/ML" width="800"/>
 </div>
 
 <h3 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=F7A11B&background=FF000000&center=true&vCenter=true&random=false&width=435&lines=A+FullStack+developer+from+Somalia;Passionate+about+Web+Development;Expert+in+MERN+Stack;Building+Amazing+Applications" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=F7A11B&background=FF000000&center=true&vCenter=true&random=false&width=435&lines=FullStack+Developer+from+Somalia;Expert+in+MERN+Stack+%26+Next.js;Building+Amazing+Applications;Innovating+in+2026+🚀" alt="FullStack Developer from Somalia, Expert in MERN & Next.js, Building Amazing Applications, Innovating in 2026" /></a>
 </h3>
 
 <div align="center">
@@ -42,11 +43,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/aliyare1113" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aliyare1113" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/linkedin.com/alidiamond" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/alidiamond" height="30" width="40" /></a>
-<a href="https://fb.com/alidiamond 10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alidiamond 10" height="30" width="40" /></a>
-<a href="https://instagram.com/maxamed_diamond" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maxamed_diamond" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/alidiamond100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="alidiamond1002" height="30" width="40" /></a>
+<a href="https://twitter.com/aliyare1113" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/linkedin.com/alidiamond" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://fb.com/alidiamond 10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+<a href="https://instagram.com/maxamed_diamond" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/alidiamond100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
 <a href="https://wa.me/252619899733" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" /></a>
 </p>
 
@@ -170,113 +171,107 @@
 ### 🚀 My Recent Projects
 
 <div align="center">
-  <table>
+  <table border="0">
     <tr>
-      <td width="50%">
-        <h3 align="center"> SmartContent AI </h3>
+      <td width="50%" valign="top">
+        <h3 align="center">SmartContent AI</h3>
         <div align="center">
           <a href="https://smart-ai-content.vercel.app" target="_blank">
-<!--             <img src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/media/9e5055da2ee6c899aab9403ceb7d0dc3.gif" width="400" alt="SmartContent AI"/> -->
-            <img src="https://cdn.dribbble.com/users/1626229/screenshots/14152042/media/8fa6c88a7c8a6d3393cf5a4e8df74c0a.gif" width="400" alt="SmartContent AI"/>
+            <img src="https://cdn.dribbble.com/users/1626229/screenshots/14152042/media/8fa6c88a7c8a6d3393cf5a4e8df74c0a.gif" width="400" alt="SmartContent AI Project Preview"/>
           </a>
-          <p><strong>SmartContent AI - Full Stack Application</strong></p>
-          <p>A modern AI-powered content creation platform with user authentication, built with React, TypeScript, Express, and MongoDB..</p>
-          <p><strong>Tech Stack:</strong> React.js, Node.js, Express, MongoDB, Express, Tailwind CSS</p>
+          <p>AI-powered content creation platform with authentication.</p>
+          <p><strong>Tech:</strong> React, Node.js, Express, MongoDB, Tailwind</p>
           <p>
             <a href="https://smart-ai-content.vercel.app" target="_blank">
-              <img src="https://img.shields.io/badge/-Live%20Demo-007ACC?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo"/>
+              <img src="https://img.shields.io/badge/-Live%20Demo-007ACC?style=for-the-badge&logo=netlify&logoColor=white" alt="SmartContent AI Live Demo"/>
             </a>
             <a href="https://github.com/alidiamond1/SmartContent-AI" target="_blank">
-              <img src="https://img.shields.io/badge/-View%20Code-181717?style=for-the-badge&logo=github" alt="View Code"/>
+              <img src="https://img.shields.io/badge/-View%20Code-181717?style=for-the-badge&logo=github" alt="SmartContent AI Source Code"/>
             </a>
           </p>
         </div>
       </td>
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
+      <td width="50%" valign="top">
         <h3 align="center">📋 TaskTracker</h3>
         <div align="center">
           <a href="https://personal-task-management.netlify.app/" target="_blank">
-<!--             <img src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/media/9e5055da2ee6c899aab9403ceb7d0dc3.gif" width="400" alt="Task Management Project"/> -->
-            <img src="https://cdn.dribbble.com/users/1626229/screenshots/14152042/media/8fa6c88a7c8a6d3393cf5a4e8df74c0a.gif" width="400" alt="Task Management Project"/>
+            <img src="https://cdn.dribbble.com/users/1626229/screenshots/14152042/media/8fa6c88a7c8a6d3393cf5a4e8df74c0a.gif" width="400" alt="TaskTracker Project Preview"/>
           </a>
-          <p><strong>Personal Task Management System</strong></p>
-          <p>A powerful and intuitive task management application with features like task organization, due dates, progress tracking, and team collaboration.</p>
-          <p><strong>Tech Stack:</strong> React.js, Node.js, MongoDB, Express, Tailwind CSS</p>
+          <p>Intuitive task management with organization and progress tracking.</p>
+          <p><strong>Tech:</strong> React, Node.js, MongoDB, Express, Tailwind</p>
           <p>
             <a href="https://personal-task-management.netlify.app/" target="_blank">
-              <img src="https://img.shields.io/badge/-Live%20Demo-007ACC?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo"/>
+              <img src="https://img.shields.io/badge/-Live%20Demo-007ACC?style=for-the-badge&logo=netlify&logoColor=white" alt="TaskTracker Live Demo"/>
             </a>
             <a href="https://github.com/alidiamond1/Personal_Task_Management" target="_blank">
-              <img src="https://img.shields.io/badge/-View%20Code-181717?style=for-the-badge&logo=github" alt="View Code"/>
-            </a>
-          </p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">✍️ Personal Blog Platform</h3>
-        <div align="center">
-          <a href="https://personal-blogs-platform.vercel.app" target="_blank">
-            <img src="https://cdn.dribbble.com/users/2851002/screenshots/7736091/media/e08e0676dd54ae8715c2d72bbdd51eb2.gif" width="400" alt="Blog     
-              Platform"/>
-          </a>
-          <p><strong>Modern Blogging Platform</strong></p>
-          <p>A feature-rich blogging platform with authentication, localStorage persistence, blog management, and responsive design. Create, edit, and 
-             manage blog posts with image support.</p>
-          <p><strong>Tech Stack:</strong> React, Vite, Tailwind CSS, LocalStorage</p>
-          <p>
-            <a href="https://personal-blogs-platform.vercel.app" target="_blank">
-              <img src="https://img.shields.io/badge/-Live%20Demo-007ACC?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
-            </a>
-            <a href="https://github.com/alidiamond1/Personal-Blogs-Platform" target="_blank">
-              <img src="https://img.shields.io/badge/-View%20Code-181717?style=for-the-badge&logo=github" alt="View Code"/>
-            </a>
-          </p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">🎓 Student Performance Predictor</h3>
-        <div align="center">
-          <a href="https://student-performance-predictor-dusky.vercel.app/" target="_blank">
-            <img src="https://cdn.dribbble.com/users/1681709/screenshots/15271874/media/a5c4525453fd7dd5c9b6bbd89f4e6f3d.gif" width="400" alt="Student Performance Predictor"/>
-          </a>
-          <p><strong>ML-Based Academic Performance Prediction</strong></p>
-          <p>A machine learning web application that predicts student academic performance based on various factors including study habits, sleep patterns, attendance, and socioeconomic background.</p>
-          <p><strong>Tech Stack:</strong> Python, Flask, scikit-learn, pandas, HTML/CSS/JavaScript</p>
-          <p>
-            <a href="https://student-performance-predictor-dusky.vercel.app/" target="_blank">
-              <img src="https://img.shields.io/badge/-Live%20Demo-007ACC?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
-            </a>
-            <a href="https://github.com/alidiamond1/Student-Performance-Predictor" target="_blank">
-              <img src="https://img.shields.io/badge/-View%20Code-181717?style=for-the-badge&logo=github" alt="View Code"/>
-            </a>
-          </p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">🎯 AI Language Tutor</h3>
-        <div align="center">
-          <a href="https://ai-language-tutor-rose.vercel.app" target="_blank">
-            <img src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/media/9c7e0c1779dd11c61c53a6b8d25f4b1a.gif" width="400" alt="AI Language Tutor"/>
-          </a>
-          <p><strong>Interactive Language Learning Platform</strong></p>
-          <p>An innovative AI-powered language learning application featuring personalized learning paths, interactive conversation practice, and real-time feedback for multiple languages.</p>
-          <p><strong>Tech Stack:</strong> Next.js, TypeScript, Tailwind CSS, Vercel AI SDK</p>
-          <p>
-            <a href="https://ai-language-tutor-rose.vercel.app" target="_blank">
-              <img src="https://img.shields.io/badge/-Live%20Demo-007ACC?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
-            </a>
-            <a href="https://github.com/alidiamond1/AI-Language-Tutor" target="_blank">
-              <img src="https://img.shields.io/badge/-View%20Code-181717?style=for-the-badge&logo=github" alt="View Code"/>
+              <img src="https://img.shields.io/badge/-View%20Code-181717?style=for-the-badge&logo=github" alt="TaskTracker Source Code"/>
             </a>
           </p>
         </div>
       </td>
     </tr>
-</table>
+    <tr>
+      <td width="50%" valign="top">
+        <h3 align="center">✍️ Personal Blog Platform</h3>
+        <div align="center">
+          <a href="https://personal-blogs-platform.vercel.app" target="_blank">
+            <img src="https://cdn.dribbble.com/users/2851002/screenshots/7736091/media/e08e0676dd54ae8715c2d72bbdd51eb2.gif" width="400" alt="Personal Blog Platform Preview"/>
+          </a>
+          <p>Feature-rich blogging platform with responsive design.</p>
+          <p><strong>Tech:</strong> React, Vite, Tailwind CSS, LocalStorage</p>
+          <p>
+            <a href="https://personal-blogs-platform.vercel.app" target="_blank">
+              <img src="https://img.shields.io/badge/-Live%20Demo-007ACC?style=for-the-badge&logo=vercel&logoColor=white" alt="Personal Blog Live Demo"/>
+            </a>
+            <a href="https://github.com/alidiamond1/Personal-Blogs-Platform" target="_blank">
+              <img src="https://img.shields.io/badge/-View%20Code-181717?style=for-the-badge&logo=github" alt="Personal Blog Source Code"/>
+            </a>
+          </p>
+        </div>
+      </td>
+      <td width="50%" valign="top">
+        <h3 align="center">🎓 Student Performance Predictor</h3>
+        <div align="center">
+          <a href="https://student-performance-predictor-dusky.vercel.app/" target="_blank">
+            <img src="https://cdn.dribbble.com/users/1681709/screenshots/15271874/media/a5c4525453fd7dd5c9b6bbd89f4e6f3d.gif" width="400" alt="Student Performance Predictor Preview"/>
+          </a>
+          <p>ML-based academic performance prediction using various factors.</p>
+          <p><strong>Tech:</strong> Python, Flask, scikit-learn, pandas</p>
+          <p>
+            <a href="https://student-performance-predictor-dusky.vercel.app/" target="_blank">
+              <img src="https://img.shields.io/badge/-Live%20Demo-007ACC?style=for-the-badge&logo=vercel&logoColor=white" alt="Student Predictor Live Demo"/>
+            </a>
+            <a href="https://github.com/alidiamond1/Student-Performance-Predictor" target="_blank">
+              <img src="https://img.shields.io/badge/-View%20Code-181717?style=for-the-badge&logo=github" alt="Student Predictor Source Code"/>
+            </a>
+          </p>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <h3 align="center">🎯 AI Language Tutor</h3>
+        <div align="center">
+          <a href="https://ai-language-tutor-rose.vercel.app" target="_blank">
+            <img src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/media/9c7e0c1779dd11c61c53a6b8d25f4b1a.gif" width="400" alt="AI Language Tutor Preview"/>
+          </a>
+          <p>AI-powered language learning featuring personalized paths.</p>
+          <p><strong>Tech:</strong> Next.js, TypeScript, Tailwind CSS, Vercel AI SDK</p>
+          <p>
+            <a href="https://ai-language-tutor-rose.vercel.app" target="_blank">
+              <img src="https://img.shields.io/badge/-Live%20Demo-007ACC?style=for-the-badge&logo=vercel&logoColor=white" alt="AI Tutor Live Demo"/>
+            </a>
+            <a href="https://github.com/alidiamond1/AI-Language-Tutor" target="_blank">
+              <img src="https://img.shields.io/badge/-View%20Code-181717?style=for-the-badge&logo=github" alt="AI Tutor Source Code"/>
+            </a>
+          </p>
+        </div>
+      </td>
+      <td width="50%" valign="top">
+        <!-- Optional 6th project or placeholder -->
+      </td>
+    </tr>
+  </table>
 </div>
 
 # GitHub Achievements 🏆
@@ -286,6 +281,14 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alidiamond1&show_icons=true&locale=en&layout=compact" alt="alidiamond1" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alidiamond1&show_icons=true&locale=en&layout=compact" alt="Ali Nor Abdulle's Top Languages" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alidiamond1&" alt="alidiamond1" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alidiamond1&" alt="GitHub Readme Streak Stats" /></p>
+
+<br />
+
+<div align="center">
+  <a href="#top">
+    <img src="https://img.shields.io/badge/-Back%20to%20Top-lightgrey?style=flat-square&logo=git&logoColor=white" alt="Back to Top"/>
+  </a>
+</div>
