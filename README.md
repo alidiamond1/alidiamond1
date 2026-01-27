@@ -1,12 +1,12 @@
 <a name="top"></a>
-# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F7A11B&background=FF000000&center=true&vCenter=true&random=false&width=600&lines=Hi+there!+%F0%9F%91%8B;I'm+Ali+Nor+Abdulle;FullStack+Developer;Welcome+to+my+2026+Profile!+🚀" alt="Hi there! 👋 I'm Ali Nor Abdulle, a FullStack Developer. Welcome to my 2026 Profile!" /></a>
+# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F7A11B&background=FF000000&center=true&vCenter=true&random=false&width=600&lines=Hi+there%21+%F0%9F%91%8B;I%27m+Ali+Nor+Abdulle;FullStack+Developer;Welcome+to+my+2026+Profile%21+%F0%9F%9A%80" alt="Hi there! 👋 I'm Ali Nor Abdulle, a FullStack Developer. Welcome to my 2026 Profile!" /></a>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/alidiamond1/alidiamond1/main/assets/skills.png" alt="My Skills: MERN Stack, Spring Boot, Flutter, and AI/ML" width="800"/>
 </div>
 
 <h3 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=F7A11B&background=FF000000&center=true&vCenter=true&random=false&width=435&lines=FullStack+Developer+from+Somalia;Expert+in+MERN+Stack+%26+Next.js;Building+Amazing+Applications;Innovating+in+2026+🚀" alt="FullStack Developer from Somalia, Expert in MERN & Next.js, Building Amazing Applications, Innovating in 2026" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=F7A11B&background=FF000000&center=true&vCenter=true&random=false&width=435&lines=FullStack+Developer+from+Somalia;Expert+in+MERN+Stack+%26+Next.js;Building+Amazing+Applications;Innovating+in+2026+%F0%9F%9A%80" alt="FullStack Developer from Somalia, Expert in MERN & Next.js, Building Amazing Applications, Innovating in 2026" /></a>
 </h3>
 
 <div align="center">
