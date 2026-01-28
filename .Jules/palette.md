@@ -17,3 +17,7 @@
 ## 2026-01-27 - [Individually Clickable Skill Icons]
 **Learning:** While grouping icons into a single image (like Skill Icons combined) is cleaner code-wise, it prevents users from clicking individual technologies to see documentation. For developers who want to showcase specific proficiencies with deep links, individual icons wrapped in <a> tags are superior for UX and information density.
 **Action:** Use individual icons instead of grouped images when the user wants each skill to be a separate, clickable link.
+
+## 2026-01-28 - [Interactive Profile Navigation & Feedback]
+**Learning:** In technical portfolios (GitHub READMEs), users expect headings (e.g., project titles) to be clickable. Additionally, providing hover feedback via `title` attributes on skill icons significantly improves the desktop browsing experience. Functional links for contact info (like `mailto:`) are essential for conversion.
+**Action:** Always wrap project titles in links to their demos, add `title` tooltips to skill icons, and ensure all email addresses are clickable `mailto:` links.
