@@ -13,7 +13,9 @@
   <img src="https://maruf001-mt.github.io/Premium-Delivery/web.gif" alt="MasterHead" width="1000"/>
 </div>
 
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=alidiamond1&color=blue" alt="Profile Views" title="Total Profile Views" />
+</div>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
