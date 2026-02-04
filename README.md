@@ -13,7 +13,7 @@
   <img src="https://maruf001-mt.github.io/Premium-Delivery/web.gif" alt="MasterHead" width="1000"/>
 </div>
 
-<div align="center">
+<div align="left">
   <img src="https://komarev.com/ghpvc/?username=alidiamond1&color=blue" alt="Profile Views" title="Total Profile Views" />
 </div>
 
