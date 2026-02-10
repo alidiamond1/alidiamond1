@@ -43,14 +43,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
    <a href="https://twitter.com/aliyare1113" target="_blank" rel="noreferrer">
-  <img
-    src="https://cdn.simpleicons.org/x/000000"
-    alt="X (Twitter)"
-    title="X (Twitter)"
-    width="40"
-    height="40"
-  />
-
+  <img src="https://cdn.simpleicons.org/x/000000" alt="X (Twitter)" title="X (Twitter)" width="40" height="40" />
   </a>&nbsp;&nbsp;
   <a href="https://linkedin.com/in/alidiamond" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
