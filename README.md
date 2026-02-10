@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=alidiamond1&color=blue" alt="Profile Views" title="Total Profile Views" />
-</div>
-
 <a name="top"></a>
 # <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F7A11B&background=FF000000&center=true&vCenter=true&random=false&width=600&lines=Hi+there%21+%F0%9F%91%8B;I%27m+Ali+Nor+Abdulle;FullStack+Developer;Welcome+to+my+2026+Profile%21+%F0%9F%9A%80" alt="Hi there! 👋 I'm Ali Nor Abdulle, a FullStack Developer. Welcome to my 2026 Profile!" /></a>
 
