@@ -23,7 +23,7 @@
 - 💼 Check my portfolio: [Personal Portfolio](https://github.com/alidiamond1/ali-diamond-portfolio)
 - 📝 I write articles on [Alidiamond.com](https://alinurabdulle.netlify.app/)
 - 💬 Ask me about **Spring Boot, MERN, PHP Web Developer & Mobile Development**
-- 📫 Reach me at: **Calilucky3@gmail.com**
+- 📫 Reach me at: [**Calilucky3@gmail.com**](mailto:Calilucky3@gmail.com)
 - 📄 Know about my experiences [MyResume](https://drive.google.com/file/d/1Cvo95ZeaI-JoYOdUyvnKmZaYd7ShiiXT/view?usp=drive_link)
 - [Resume_Ai_Builder.com](https://app--resume-ai-529ca63d.base44.app/)
 
@@ -43,7 +43,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/aliyare1113" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="40" />
+    <img src="https://skillicons.dev/icons?i=x" alt="X (formerly Twitter)" title="X (formerly Twitter)" height="40" width="40" />
   </a>&nbsp;&nbsp;
   <a href="https://linkedin.com/in/alidiamond" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
@@ -64,38 +64,38 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" height="40" /></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" height="40" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="40" /></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react" alt="React" height="40" /></a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" height="40" /></a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=reactnative" alt="React Native" height="40" /></a>
-  <a href="https://expo.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=expo" alt="Expo" height="40" /></a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" height="40" /></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" height="40" /></a>
-  <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" height="40" /></a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="40" /></a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=express" alt="Express.js" height="40" /></a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=spring" alt="Spring" height="40" /></a>
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=php" alt="PHP" height="40" /></a>
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cs" alt="C#" height="40" /></a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=java" alt="Java" height="40" /></a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="40" /></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="40" /></a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" height="40" /></a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=py" alt="Python" height="40" /></a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=numpy" alt="NumPy" height="40" /></a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=pandas" alt="Pandas" height="40" /></a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=sklearn" alt="Scikit-Learn" height="40" /></a>
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" height="40" /></a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" height="40" /></a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" height="40" /></a>
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ps" alt="Photoshop" height="40" /></a>
-  <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ai" alt="Illustrator" height="40" /></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" alt="Git" height="40" /></a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" height="40" /></a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" height="40" /></a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" height="40" /></a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML5" height="40" /></a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" title="CSS3" height="40" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" height="40" /></a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react" alt="React" title="React" height="40" /></a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" title="Next.js" height="40" /></a>
+  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=reactnative" alt="React Native" title="React Native" height="40" /></a>
+  <a href="https://expo.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=expo" alt="Expo" title="Expo" height="40" /></a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" title="Bootstrap" height="40" /></a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" title="Tailwind CSS" height="40" /></a>
+  <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" title="Flutter" height="40" /></a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js" height="40" /></a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=express" alt="Express.js" title="Express.js" height="40" /></a>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=spring" alt="Spring" title="Spring" height="40" /></a>
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=php" alt="PHP" title="PHP" height="40" /></a>
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cs" alt="C#" title="C#" height="40" /></a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java" height="40" /></a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB" height="40" /></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL" height="40" /></a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" title="PostgreSQL" height="40" /></a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=py" alt="Python" title="Python" height="40" /></a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=numpy" alt="NumPy" title="NumPy" height="40" /></a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=pandas" alt="Pandas" title="Pandas" height="40" /></a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=sklearn" alt="Scikit-Learn" title="Scikit-Learn" height="40" /></a>
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" title="TensorFlow" height="40" /></a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" title="PyTorch" height="40" /></a>
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" title="OpenCV" height="40" /></a>
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ps" alt="Photoshop" title="Photoshop" height="40" /></a>
+  <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ai" alt="Illustrator" title="Illustrator" height="40" /></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" height="40" /></a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker" height="40" /></a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" title="VS Code" height="40" /></a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" title="Figma" height="40" /></a>
 </p>
 
 
@@ -106,7 +106,7 @@
   <table border="0">
     <tr>
       <td width="50%" valign="top">
-        <h3 align="center">SmartContent AI</h3>
+        <h3 align="center"><a href="https://smart-ai-content.vercel.app" target="_blank">SmartContent AI</a></h3>
         <div align="center">
           <a href="https://smart-ai-content.vercel.app" target="_blank">
             <img src="https://cdn.dribbble.com/users/1626229/screenshots/14152042/media/8fa6c88a7c8a6d3393cf5a4e8df74c0a.gif" width="400" alt="SmartContent AI Project Preview"/>
@@ -124,7 +124,7 @@
         </div>
       </td>
       <td width="50%" valign="top">
-        <h3 align="center">📋 TaskTracker</h3>
+        <h3 align="center"><a href="https://personal-task-management.netlify.app/" target="_blank">📋 TaskTracker</a></h3>
         <div align="center">
           <a href="https://personal-task-management.netlify.app/" target="_blank">
             <img src="https://cdn.dribbble.com/users/1626229/screenshots/14152042/media/8fa6c88a7c8a6d3393cf5a4e8df74c0a.gif" width="400" alt="TaskTracker Project Preview"/>
@@ -144,7 +144,7 @@
     </tr>
     <tr>
       <td width="50%" valign="top">
-        <h3 align="center">✍️ Personal Blog Platform</h3>
+        <h3 align="center"><a href="https://personal-blogs-platform.vercel.app" target="_blank">✍️ Personal Blog Platform</a></h3>
         <div align="center">
           <a href="https://personal-blogs-platform.vercel.app" target="_blank">
             <img src="https://cdn.dribbble.com/users/2851002/screenshots/7736091/media/e08e0676dd54ae8715c2d72bbdd51eb2.gif" width="400" alt="Personal Blog Platform Preview"/>
@@ -162,7 +162,7 @@
         </div>
       </td>
       <td width="50%" valign="top">
-        <h3 align="center">🎓 Student Performance Predictor</h3>
+        <h3 align="center"><a href="https://student-performance-predictor-dusky.vercel.app/" target="_blank">🎓 Student Performance Predictor</a></h3>
         <div align="center">
           <a href="https://student-performance-predictor-dusky.vercel.app/" target="_blank">
             <img src="https://cdn.dribbble.com/users/1681709/screenshots/15271874/media/a5c4525453fd7dd5c9b6bbd89f4e6f3d.gif" width="400" alt="Student Performance Predictor Preview"/>
@@ -182,7 +182,7 @@
     </tr>
     <tr>
       <td width="50%" valign="top">
-        <h3 align="center">🎯 AI Language Tutor</h3>
+        <h3 align="center"><a href="https://ai-language-tutor-rose.vercel.app" target="_blank">🎯 AI Language Tutor</a></h3>
         <div align="center">
           <a href="https://ai-language-tutor-rose.vercel.app" target="_blank">
             <img src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/media/9c7e0c1779dd11c61c53a6b8d25f4b1a.gif" width="400" alt="AI Language Tutor Preview"/>
@@ -209,13 +209,13 @@
 # GitHub Achievements 🏆
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=alidiamond1&theme=onedark)](https://github.com/alidiamond1/github-profile-trophy)
+[![Ali Nor Abdulle's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=alidiamond1&theme=onedark)](https://github.com/alidiamond1/github-profile-trophy)
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alidiamond1&show_icons=true&locale=en&layout=compact" alt="Ali Nor Abdulle's Top Languages" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alidiamond1&show_icons=true&locale=en&layout=compact" alt="Ali Nor Abdulle's Top Languages" title="Ali Nor Abdulle's Top Languages" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alidiamond1&" alt="GitHub Readme Streak Stats" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alidiamond1&" alt="Ali Nor Abdulle's GitHub Streak Stats" title="Ali Nor Abdulle's GitHub Streak Stats" /></p>
 
 <br />
 
